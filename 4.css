@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .controls {
+    grid-template-columns: repeat(3, 80px);
+  }
+
+  button {
+    padding: 15px;
+    font-size: 1.2rem;
+  }
+}
